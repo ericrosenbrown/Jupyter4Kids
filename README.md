@@ -1,4 +1,5 @@
-https://mybinder.org/v2/gh/ericrosenbrown/Jupyter4Kids/master
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ericrosenbrown/Jupyter4Kids/master)
+
 
 Click "Launch Binder" above to start programming!
 
